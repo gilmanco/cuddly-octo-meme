@@ -1,2 +1,2 @@
 # cuddly-octo-meme
-[link](cuddly-octo-meme/README.md)
+[link](README.md)
